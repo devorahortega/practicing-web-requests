@@ -1,0 +1,9 @@
+GET http://gmail.com/inbox
+
+###
+
+POST https://data.cityofchicago.org/resource/xzkq-xp2w.json
+
+###
+
+TRACE https://calendar.google.com/calendar/u/0/r?tab=mc&pli=1
